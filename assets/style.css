@@ -98,6 +98,21 @@
         text-align: center;
     }
     
+    @media screen and (max-width: 992px) {
+        div {
+            display: inline-block;
+            margin: 2%;
+            margin-top: 3%;
+            max-width: 100vh;
+            width: 40%;
+            max-height: 15%;
+            padding: 0 2% 2% 2%;
+            justify-content: center;
+            border: 2px dashed white;
+            transition: all 0.5s ease-in-out;
+        }
+    }
+
     @media screen and (max-width: 768px) {
         div {
             display: inline-block;
@@ -106,7 +121,7 @@
             max-width: 100vh;
             width: 40%;
             max-height: 15%;
-            padding: 0 1% 1% 1%;
+            padding: 0 2% 2% 2%;
             justify-content: center;
             border: 2px dashed white;
             transition: all 0.5s ease-in-out;
@@ -121,7 +136,7 @@
             max-width: 100vh;
             width: 95%;
             max-height: 15%;
-            padding: 0 1% 1% 1%;
+            padding: 0 2% 2% 2%;
             justify-content: center;
             border: 2px dashed white;
             transition: all 0.5s ease-in-out;
