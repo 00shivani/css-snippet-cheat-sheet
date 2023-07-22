@@ -24,4 +24,4 @@ This mini-project showcases a firm understanding of advanced CSS concepts such a
 * [Deployed Project Webpage](https://00shivani.github.io/css-snippet-cheat-sheet/)
 * [GitHub Project Repository](https://github.com/00shivani/css-snippet-cheat-sheet/)
 
-##### Completed on July 22nd, 2023 for Rutgers Full-Stack Web Development Bootcamp by Shivani Singh
+##### Uploaded on July 22nd, 2023 for Rutgers Full-Stack Web Development Bootcamp by Shivani Singh
